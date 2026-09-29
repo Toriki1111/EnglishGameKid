@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>English Quest</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <script>
+        window.onerror = function(msg, url, line, col, error) {
+            var errDiv = document.createElement('div');
+            errDiv.style.cssText = 'color:red; z-index:9999; position:absolute; top:0; left:0; background:white; padding:20px; font-size:20px; border:2px solid red;';
+            errDiv.innerHTML = '<strong>Error:</strong> ' + msg + '<br>Line: ' + line + '<br>Col: ' + col + '<br>File: ' + url;
+            document.body.appendChild(errDiv);
+            return false;
+        };
+    </script>
+    <div id="game-container">
+        <!-- Scenes will be injected here by SceneManager -->
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/utils/EventBus.js"></script>
+    <script src="js/utils/Random.js"></script>
+    <script src="js/utils/SpriteAnimator.js"></script>
+    <script src="js/utils/MobSprite.js"></script>
+    <script src="data/mobs.js"></script>
+    
+    <script src="js/mechanics/BaseMechanic.js"></script>
+    <script src="js/mechanics/QuizBattle.js"></script>
+    <script src="js/mechanics/MatchImage.js"></script>
+    <script src="js/mechanics/MatchWord.js"></script>
+    <script src="js/mechanics/FillBlank.js"></script>
+    <script src="js/mechanics/ConnectMatch.js"></script>
+    <script src="js/mechanics/BossMixed.js"></script>
+    <script src="js/mechanics/MechanicFactory.js"></script>
+
+    <script src="js/combat/Monster.js"></script>
+    <script src="js/combat/CombatManager.js"></script>
+    
+    <script src="js/core/PlayerManager.js"></script>
+    <script src="js/ui/AccountModal.js"></script>
+    <script src="js/ui/MainMenu.js"></script>
+    <script src="js/ui/ChapterMenu.js"></script>
+    <script src="js/ui/UnitMenu.js"></script>
+    <script src="js/ui/BattleUI.js"></script>
+    
+    <script src="js/core/SceneManager.js"></script>
+    <script src="js/core/GameManager.js"></script>
+    
+    <script src="js/main.js"></script>
+</body>
+</html>

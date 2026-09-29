@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Quest — Admin Panel (Monster HP Config)</title>
+    <link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+
+    <!-- TOP HEADER -->
+    <header class="admin-header">
+        <div class="brand-area">
+            <span class="brand-icon">&#9881;</span>
+            <div>
+                <h1 class="brand-title">ENGLISH QUEST &bull; ADMIN PANEL</h1>
+                <p class="brand-subtitle">Quản lý & Điều chỉnh Máu Quái Vật (Sử dụng Linked List)</p>
+            </div>
+        </div>
+        <div class="header-actions">
+            <a href="../index.html" class="btn-header btn-game-link">&#9654; Vào Game Chơi</a>
+        </div>
+    </header>
+
+    <!-- LINKED LIST VISUALIZER BAR -->
+    <div class="ll-visualizer-bar">
+        <span class="ll-title">&#128279; Chapter Linked List:</span>
+        <div class="ll-nodes-track" id="linked-list-visual">
+            <!-- Linked list nodes dynamically injected here -->
+        </div>
+    </div>
+
+    <!-- MAIN ADMIN LAYOUT -->
+    <div class="admin-container">
+
+        <!-- SIDEBAR CHAPTERS -->
+        <aside class="admin-sidebar">
+            <div>
+                <div class="sidebar-heading">DANH SÁCH CHƯƠNG (LINKED LIST)</div>
+                <div class="chapter-nav-list" id="chapter-nav-list">
+                    <!-- Chapter buttons injected here -->
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <button class="btn-sidebar-action btn-reset" id="btn-reset-chapter">
+                    &#8635; Khôi Phục HP Mặc Định
+                </button>
+            </div>
+        </aside>
+
+        <!-- STAGES CONTENT -->
+        <main class="admin-main">
+            <!-- Chapter Header -->
+            <div class="chapter-header-box">
+                <h2 class="chapter-title" id="selected-chapter-title">Chương 1: Forest of Words</h2>
+                <p class="chapter-desc" id="selected-chapter-desc">Khu rừng từ vựng cơ bản (Unit 1 - Animals)</p>
+            </div>
+
+            <!-- Stages Grid -->
+            <div class="stages-grid" id="stages-container">
+                <!-- Stage cards dynamically injected here -->
+            </div>
+
+            <!-- Bottom Save Bar -->
+            <div class="main-actions-bar">
+                <button class="btn-save-all" id="btn-save-all">
+                    &#10004; Lưu & Áp Dụng Cấu Hình Vào Game
+                </button>
+            </div>
+        </main>
+
+    </div>
+
+    <!-- TOAST NOTIFICATION -->
+    <div class="toast-notification" id="toast-notification"></div>
+
+    <!-- Scripts -->
+    <script src="js/ChapterLinkedList.js"></script>
+    <script src="js/admin.js"></script>
+</body>
+</html>

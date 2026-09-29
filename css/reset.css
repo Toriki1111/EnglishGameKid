@@ -1,0 +1,45 @@
+/* =============================================
+   BASE LAYOUT (game container + scene system)
+   ============================================= */
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0; padding: 0;
+    overflow: hidden;
+    background: #000;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+ul { list-style: none; }
+button { border: none; font-family: inherit; cursor: pointer; }
+
+#game-container {
+    width: 100%;
+    max-width: 900px;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+    background: #1a1a2e;
+    overflow: hidden;
+}
+
+/* ---- SCENE SYSTEM ---- */
+.scene {
+    position: absolute;
+    inset: 0;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.scene.active {
+    display: flex;
+}

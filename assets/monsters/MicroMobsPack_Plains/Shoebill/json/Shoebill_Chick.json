@@ -1,0 +1,380 @@
+{ "frames": {
+   "Shoebill_Chick #egg_idle 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 350
+   },
+   "Shoebill_Chick #egg_idle 1.aseprite": {
+    "frame": { "x": 27, "y": 0, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #egg_idle 2.aseprite": {
+    "frame": { "x": 54, "y": 0, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #egg_idle 3.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #egg_idle 4.aseprite": {
+    "frame": { "x": 81, "y": 0, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #egg_idle 5.aseprite": {
+    "frame": { "x": 108, "y": 0, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #egg_idle 6.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 1.aseprite": {
+    "frame": { "x": 135, "y": 0, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 2.aseprite": {
+    "frame": { "x": 162, "y": 0, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 3.aseprite": {
+    "frame": { "x": 0, "y": 29, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 4.aseprite": {
+    "frame": { "x": 27, "y": 29, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 5.aseprite": {
+    "frame": { "x": 54, "y": 29, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 6.aseprite": {
+    "frame": { "x": 81, "y": 29, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 7.aseprite": {
+    "frame": { "x": 108, "y": 29, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 8.aseprite": {
+    "frame": { "x": 135, "y": 29, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 9.aseprite": {
+    "frame": { "x": 162, "y": 29, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 10.aseprite": {
+    "frame": { "x": 0, "y": 58, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 11.aseprite": {
+    "frame": { "x": 27, "y": 58, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #out_of_an_egg 12.aseprite": {
+    "frame": { "x": 54, "y": 58, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 300
+   },
+   "Shoebill_Chick #idle 0.aseprite": {
+    "frame": { "x": 54, "y": 58, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 300
+   },
+   "Shoebill_Chick #idle 1.aseprite": {
+    "frame": { "x": 81, "y": 58, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #idle 2.aseprite": {
+    "frame": { "x": 108, "y": 58, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #idle 3.aseprite": {
+    "frame": { "x": 135, "y": 58, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #idle 4.aseprite": {
+    "frame": { "x": 162, "y": 58, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #walk 0.aseprite": {
+    "frame": { "x": 54, "y": 58, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #walk 1.aseprite": {
+    "frame": { "x": 0, "y": 87, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #walk 2.aseprite": {
+    "frame": { "x": 27, "y": 87, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #walk 3.aseprite": {
+    "frame": { "x": 54, "y": 87, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #walk 4.aseprite": {
+    "frame": { "x": 81, "y": 87, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #walk 5.aseprite": {
+    "frame": { "x": 108, "y": 87, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #walk 6.aseprite": {
+    "frame": { "x": 135, "y": 87, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #walk 7.aseprite": {
+    "frame": { "x": 162, "y": 87, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #walk 8.aseprite": {
+    "frame": { "x": 0, "y": 116, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #walk 9.aseprite": {
+    "frame": { "x": 27, "y": 116, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #walk 10.aseprite": {
+    "frame": { "x": 54, "y": 116, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #walk 11.aseprite": {
+    "frame": { "x": 81, "y": 116, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #kamikaze 0.aseprite": {
+    "frame": { "x": 54, "y": 58, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #kamikaze 1.aseprite": {
+    "frame": { "x": 108, "y": 116, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #kamikaze 2.aseprite": {
+    "frame": { "x": 135, "y": 116, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #kamikaze 3.aseprite": {
+    "frame": { "x": 162, "y": 116, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #kamikaze 4.aseprite": {
+    "frame": { "x": 0, "y": 145, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #kamikaze 5.aseprite": {
+    "frame": { "x": 27, "y": 145, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   "Shoebill_Chick #kamikaze 6.aseprite": {
+    "frame": { "x": 54, "y": 145, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 200
+   },
+   "Shoebill_Chick #kamikaze 7.aseprite": {
+    "frame": { "x": 54, "y": 145, "w": 27, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 3, "w": 27, "h": 29 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.14-beta1-x64",
+  "image": "Shoebill_Chick.png",
+  "format": "RGBA8888",
+  "size": { "w": 189, "h": 174 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "egg_idle", "from": 0, "to": 6, "direction": "forward", "repeat": "3", "color": "#000000ff" },
+   { "name": "out_of_an_egg", "from": 7, "to": 19, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle", "from": 20, "to": 24, "direction": "forward", "repeat": "3", "color": "#000000ff" },
+   { "name": "walk", "from": 25, "to": 36, "direction": "forward", "repeat": "2", "color": "#000000ff" },
+   { "name": "kamikaze", "from": 37, "to": 44, "direction": "forward", "repeat": "1", "color": "#000000ff" }
+  ],
+  "slices": [
+  ]
+ }
+}

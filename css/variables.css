@@ -1,0 +1,17 @@
+:root {
+    --color-primary: #4CAF50;
+    --color-secondary: #FFC107;
+    --color-danger: #F44336;
+    --color-background: #E8F5E9;
+    --color-text: #333;
+    --color-white: #FFF;
+    
+    --font-size-sm: 16px;
+    --font-size-md: 24px;
+    --font-size-lg: 32px;
+    --font-size-xl: 48px;
+
+    --border-radius: 12px;
+    
+    --transition-speed: 0.3s;
+}
